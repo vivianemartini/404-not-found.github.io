@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/70038975/132600529-2b27a459-768a-42c7-b3fd-b861edc1f3aa.JPG)
+![screenshot](https://user-images.githubusercontent.com/70038975/132575060-539f5ad5-9fdd-4b03-958c-a4b7ffe9ad29.JPG)
 
 This project was perfect to practice CSS and create a responsive web page
 
