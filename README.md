@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/vivianemartini/404-not-found/issues/1)
 
 This project was perfect to practice CSS and create a responsive web page
 
